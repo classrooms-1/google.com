@@ -1,1 +1,0 @@
-No Content: https://play.sprunkiretake.net/crazy-cattle-3d/CrazyCattle3D.service.worker.js
